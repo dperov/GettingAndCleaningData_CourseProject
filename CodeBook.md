@@ -12,7 +12,7 @@ integer: person id
 
 six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) performed by persion 
 
-**The foolowing 66 features are average of the variables from original dataset for each activity and each subject**
+**The foolowing 66 features are the averages of the variables from original dataset for each activity and each subject**
 
 * tBodyAcc-mean()-X
 * tBodyAcc-mean()-Y
